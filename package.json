@@ -1,0 +1,28 @@
+{
+  "name": "es6-dev",
+  "version": "1.0.0",
+  "description": "Development Tool for ES6+",
+  "main": "index.js",
+  "bin": {
+    "es6dev": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotronglong/es6-dev.git"
+  },
+  "keywords": [
+    "es6",
+    "es2015",
+    "dev",
+    "tool"
+  ],
+  "author": "Long Do <me@dotronglong.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dotronglong/es6-dev/issues"
+  },
+  "homepage": "https://github.com/dotronglong/es6-dev#readme"
+}
